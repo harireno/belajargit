@@ -3,3 +3,5 @@ Rencana Produksi 247opensource
 - Design Graphics dengan Photoshop
 - Menguasai Java dan Javascript
 - Teknik Menggunakan CorelDraw
+- Artificial Intelligence Menggunakan Python
+- Design dengan Procreate
