@@ -1,4 +1,5 @@
 Ide-ide yang mungkin bisa di realisasikan 
 - Buku tentang ilmu Rocket
-- Buku tentang psikiatri
 - Buku tentang hacking
+- Buku tentang astronomi
+
